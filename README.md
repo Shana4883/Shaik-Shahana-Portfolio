@@ -1,5 +1,3 @@
-# Shaik-Shahana-Portfolio
-My personal portfolio
 # Shahana's Portfolio
 
 ## Description
